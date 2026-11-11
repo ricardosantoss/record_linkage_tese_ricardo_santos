@@ -1,0 +1,7 @@
+# Dependências identificadas nos notebooks (revisar versões conforme ambiente)
+pandas
+numpy
+openpyxl
+PyPDF2
+fuzzywuzzy
+python-Levenshtein

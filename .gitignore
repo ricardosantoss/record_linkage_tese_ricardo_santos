@@ -1,0 +1,30 @@
+# Dados clínicos, arquivos de resultados e credenciais
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+*.pkl
+*.pickle
+*.zip
+.env
+.env.*
+*.jsonl
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Bases sensíveis e ambientes locais
+PRIVATE_DATA/
+data/
+outputs/
+results/
+*.db-journal
+*.sqlite-journal
+*.key
+*.pem
+*.env
