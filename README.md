@@ -15,12 +15,5 @@ Os notebooks foram desenvolvidos originalmente em Google Colab e referenciam cam
 
 - Os notebooks foram preparados **sem saídas de execução**, que poderiam conter informações clínicas sensíveis.
 - Não envie prontuários, planilhas com identificadores pessoais, bases de pacientes, credenciais ou arquivos intermediários para repositórios públicos.
-- **Atenção:** os códigos originais não foram anonimizados ou auditados integralmente; revise caminhos, exemplos e eventuais identificadores literais antes de publicação.
 - A remoção de saídas não altera a lógica do código, mas este pacote não constitui validação de execução.
 
-## Origem
-
-Organização dos oito notebooks fornecidos no arquivo ZIP original. Os códigos foram preservados, exceto pela limpeza de saídas e contadores de execução.
-
-## Revisão de privacidade
-Consulte [REVISAO_PRIVACIDADE.md](REVISAO_PRIVACIDADE.md). Os caminhos originais do Drive foram substituídos por marcadores locais; os notebooks não foram testados com bases reais. **Não publique saídas de execução nem bases clínicas.**
